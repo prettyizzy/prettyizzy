@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isabella</h1>
 <h3 align="center">A college student looking for ML opportunities in tech!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prettyizzy" alt="prettyizzy" /></a> </p>
-
 - 🌱 I’m currently learning **HTML, CSS, & Bootstrap**
 
 - ⚡ Fun fact **My favorite animal is a unicorn!**
