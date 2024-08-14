@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isabella</h1>
 <h3 align="center">A college student looking for ML opportunities in tech!</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, & Bootstrap**
+- 🌱 I’m currently learning **AWS, React**
 
 - ⚡ Fun fact **My favorite animal is a unicorn!**
 
